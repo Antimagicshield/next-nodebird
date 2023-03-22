@@ -1,6 +1,6 @@
 import { Button, Checkbox, Form, Input } from 'antd';
 import { useCallback, useEffect, useState } from 'react';
-import AppLayout from '../components/appLayout';
+import AppLayout from '../components/AppLayout';
 import LoginForm from '../components/LoginForm';
 import PropTypes from 'prop-types';
 import useInput from '../hooks/useInput';
